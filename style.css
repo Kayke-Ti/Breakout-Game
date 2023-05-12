@@ -1,0 +1,13 @@
+body {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #EFEFEF;
+}
+
+#gamer {
+  background-color: #CCC;
+  margin-top: 10rem;
+  border: 1px solid #333;
+}
